@@ -1,16 +1,24 @@
 # Hi, I'm Niraj 👋
 
-📍 **India** | 📱 **Flutter craftsman** | ⚙️ **Backend tinkerer** | 🎓 **CS Student**
+📍 **India** | ⚙️ ** Backend tinkerer** | 📱 **Flutter craftsman** | 🎓 **CS Student**
 
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 > I don't just write code — I ship products. Currently building apps that real people use, while still figuring out `O(n log n)` in class.
@@ -20,20 +28,21 @@
 ## What I'm Building
 
 - 💬 **[SpurSpace](https://spurspace.in)** — Social app for real-world connections. MVP shipped to Play Store. Real-time chat, activity feeds, community features. *My baby.*
-- 🌍 **Avalon** — Environmental monitoring & sustainability platform (Team Project)
-- 🤖 **AI Daily Challenges** — AI-generated personalized challenges to build better habits
 - ⛏️ **[SMP369](https://github.com/YOUR_USERNAME/SMP369)** — Custom Minecraft server plugin — GUIs, shops, spawners, RTP, the works
+- 🌍 **Avalon** — Environmental monitoring & sustainability platform (Team Project)
 
 ## The Stack I Actually Use
 
 | What | How |
 |------|-----|
-| **Mobile** | Flutter + Dart — my home turf |
-| **Backend** | Django REST + Spring Boot |
+| **Backend** | Java + Spring Boot + Hibernate |
+| **Architecture** | Microservices, REST APIs, Kafka |
+| **Mobile** | Flutter + Dart, React Native |
+| **Frontend** | React, JavaScript, Node.js |
 | **Real-time** | WebSockets, Kafka |
-| **Infra** | Firebase, Supabase, AdMob |
+| **Infra** | Firebase, Supabase |
 | **Systems** | C++ when things need to go fast |
-| **Automation** | Python scripts for everything else |
+| **Automation** | Python, Django, CLI scripts |
 
 ## What I Care About
 
@@ -42,38 +51,26 @@
 - **Sustainability tech** — building for a planet that needs better software
 - **Learning in public** — I break things, fix them, and sometimes write about it
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-</div>
-
----
-
 ## Open To
 
 - 💼 Software Engineering Internships
+- 🖥️ Backend Developer (Spring Boot)
 - 📱 Flutter / Backend Freelance
 - 🤝 Collaborative projects that solve real problems
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Niraj_Khetre-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/niraj-khetre-303b48251)
-[![Portfolio](https://img.shields.io/badge/-spurspace.in-000?style=flat-square&logo=google-chrome&logoColor=white)](https://spurspace.in)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khetreniraj@gmail.com)
 
 ---
 
 <details>
 <summary>Random Facts</summary>
 
-- ☕ Runs on chai and deadlines
 - 🎮 Builds Minecraft plugins for fun
 - 📚 Currently deep in Kafka & distributed systems
-- 🚀 Shipped an app to Play Store while still in college
+- 🚀 Shipped an app to Play Store
 - 🌱 Believes tech should leave the planet better than it found it
 
 </details>
