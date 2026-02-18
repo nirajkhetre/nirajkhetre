@@ -1,103 +1,81 @@
+# Hi, I'm Niraj 👋
+
+📍 **India** | 📱 **Flutter craftsman** | ⚙️ **Backend tinkerer** | 🎓 **CS Student**
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+> I don't just write code — I ship products. Currently building apps that real people use, while still figuring out `O(n log n)` in class.
+
+---
+
+## What I'm Building
+
+- 💬 **[SpurSpace](https://spurspace.in)** — Social app for real-world connections. MVP shipped to Play Store. Real-time chat, activity feeds, community features. *My baby.*
+- 🌍 **Avalon** — Environmental monitoring & sustainability platform (Team Project)
+- 🤖 **AI Daily Challenges** — AI-generated personalized challenges to build better habits
+- ⛏️ **[SMP369](https://github.com/YOUR_USERNAME/SMP369)** — Custom Minecraft server plugin — GUIs, shops, spawners, RTP, the works
+
+## The Stack I Actually Use
+
+| What | How |
+|------|-----|
+| **Mobile** | Flutter + Dart — my home turf |
+| **Backend** | Django REST + Spring Boot |
+| **Real-time** | WebSockets, Kafka |
+| **Infra** | Firebase, Supabase, AdMob |
+| **Systems** | C++ when things need to go fast |
+| **Automation** | Python scripts for everything else |
+
+## What I Care About
+
+- **Shipping > Planning** — I'd rather have a buggy MVP than a perfect Figma
+- **Clean architecture** — but only when it earns its complexity
+- **Sustainability tech** — building for a planet that needs better software
+- **Learning in public** — I break things, fix them, and sometimes write about it
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  
-# 👋 Hey, I'm **Niraj Khetre**
-
-### 🚀 Software Engineer · Flutter & Backend Developer · CS Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/niraj-khetre-303b48251)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-*I build scalable, real-world applications with clean architecture and strong backend logic.*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## Open To
 
-- 📱 Building cross-platform mobile apps with **Flutter**
-- 🌐 Crafting robust backend APIs with **Django & Spring Boot**
-- 💻 Writing performant system-level code in **C++**
-- 🔄 Exploring real-time systems — **WebSockets, Kafka**
-- 🌱 Passionate about **sustainability-focused tech**
-- 🎓 Currently pursuing **Computer Science**
+- 💼 Software Engineering Internships
+- 📱 Flutter / Backend Freelance
+- 🤝 Collaborative projects that solve real problems
 
----
+## Connect
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| **Tools & Infra** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Real-time** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-Niraj_Khetre-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/niraj-khetre-303b48251)
+[![Portfolio](https://img.shields.io/badge/-spurspace.in-000?style=flat-square&logo=google-chrome&logoColor=white)](https://spurspace.in)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 🔥 Featured Projects
+<details>
+<summary>Random Facts</summary>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Avalon</h3>
-      <p align="center">Environmental monitoring & sustainability app built with a team. Focused on real-time data collection and awareness.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 SpurSpace</h3>
-      <p align="center">A social mobile app — MVP shipped & published on the Play Store. Features real-time chat, activity feeds & community building.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Daily Challenges</h3>
-      <p align="center">AI-powered app that generates personalized daily challenges to build habits and boost productivity.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⛏️ SMP369 Plugin</h3>
-      <p align="center">Custom Minecraft server plugin with GUI systems, spawner management, RTP, and shop mechanics built in Java.</p>
-    </td>
-  </tr>
-</table>
+- ☕ Runs on chai and deadlines
+- 🎮 Builds Minecraft plugins for fun
+- 📚 Currently deep in Kafka & distributed systems
+- 🚀 Shipped an app to Play Store while still in college
+- 🌱 Believes tech should leave the planet better than it found it
 
----
+</details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Open To
-
-- 💼 **Software Engineering Internships**
-- 📱 **Flutter / Backend Freelance Work**
-- 🤝 **Collaborative Open-Source & Tech Projects**
-
----
-
-<div align="center">
-  
-### 💬 Let's Connect!
-
-*I'm always open to discussing tech, new ideas, or potential collaborations.*
-
-[![LinkedIn](https://img.shields.io/badge/-Niraj_Khetre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/niraj-khetre-303b48251)
-[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
+> *"Ship it, learn from it, iterate."*
