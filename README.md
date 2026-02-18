@@ -1,6 +1,6 @@
 # Hi, I'm Niraj 👋
 
-📍 **India** | ⚙️ ** Backend tinkerer** | 📱 **Flutter craftsman** | 🎓 **CS Student**
+📍 **India** | ⚙️ **Backend tinkerer** | 📱 **Flutter craftsman** | 🎓 **CS Student**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
