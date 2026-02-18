@@ -27,7 +27,7 @@
 
 ## What I'm Building
 
-- 💬 **[SpurSpace](https://spurspace.in)** — Social app for real-world connections. MVP shipped to Play Store. Real-time chat, activity feeds, community features. *My baby.*
+- 💬 **[SpurSpace](https://spurspace.in)** — Social app for real-world connections. MVP shipped to Play Store. Real-time chat, activity feeds, community features.
 - ⛏️ **[SMP369](https://github.com/YOUR_USERNAME/SMP369)** — Custom Minecraft server plugin — GUIs, shops, spawners, RTP, the works
 - 🌍 **Avalon** — Environmental monitoring & sustainability platform (Team Project)
 
