@@ -5,14 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center"><img src="assets/icons/sigil.svg" height="38.4" align="absmiddle" alt="">&nbsp;Rise, Tarnished. I'm Niraj, known as Sargio&nbsp;Mark</h1>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
-    <img src="assets/identity-light.svg" width="870" alt="Origin: India | Class: Backend tinkerer | Off-hand: Flutter craftsman | Rank: CS Student">
-  </picture>
-</p>
+<h1 align="center"><img src="assets/icons/sigil.svg" height="38.4" align="absmiddle" alt="">&nbsp;Rise, Tarnished. I'm Niraj</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-1c160d?style=flat-square&logo=openjdk&logoColor=d9b45a" alt="Java">
